@@ -7,7 +7,10 @@
 
 - 🌱 I’m currently learning **Figma, User Research, and Wireframing**
 
-- 📫 How to reach me **rachettisamarth3281@gmail.com**
+- ## 📫 Connect with me  
+LinkedIn: [Profile](https://www.linkedin.com/in/samarth-rachetti-7861a423b)  
+E-mail: rachettisamarth3281@gmail.com  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
