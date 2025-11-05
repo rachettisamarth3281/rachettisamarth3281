@@ -82,14 +82,27 @@ The redesign aims to simplify decision-making and strengthen Zepto’s energetic
 
 ---
 
-### 🖼️ Visual Mockups
+### 🖼️ Visual Mockups (inline previews)
+*(If you upload thumbnails to `Assets/zepto-redesign/images/`, these will appear inline.)*
 
 <p align="center">
-  <img src="./images/mockup-desktop.jpg" alt="Zepto Redesign Desktop View" width="80%" />
+  <a href="./Assets/zepto-redesign/Desktop%20-%20Homepage%201.pdf" target="_blank">
+    <img src="./Assets/zepto-redesign/images/thumb-desktop.png" alt="Zepto Desktop preview" width="80%" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="./images/mockup-mobile.jpg" alt="Zepto Redesign Mobile View" width="40%" />
+  <a href="./Assets/zepto-redesign/Tablet%20-%20Homepage%201.pdf" target="_blank">
+    <img src="./Assets/zepto-redesign/images/thumb-tablet.png" alt="Zepto Tablet preview" width="45%" />
+  </a>
 </p>
+
+---
+
+### 📄 Full PDF Mockups (click to view)
+- [Homepage Redesign 1 (PDF)](./Assets/zepto-redesign/Homepage%20Redesign%201.pdf)  
+- [Desktop - Homepage 1 (PDF)](./Assets/zepto-redesign/Desktop%20-%20Homepage%201.pdf)  
+- [Tablet - Homepage 1 (PDF)](./Assets/zepto-redesign/Tablet%20-%20Homepage%201.pdf)
 
 ---
 
